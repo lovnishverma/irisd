@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Alternatively, install the required packages manually:
 
 ```bash
-pip install flask joblib
+pip install flask joblib scikit-learn
 ```
 
 ---
